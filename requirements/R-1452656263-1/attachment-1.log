@@ -1,0 +1,114 @@
+test ➜  tmp  cat sem1.log
+MongoDB shell version: 3.0.4
+connecting to: localhost:27017/matrix-yangcong-prod25
+Tue Oct 13 2015 00:00:00 GMT+0800 (CST)
+Wed Oct 14 2015 00:00:00 GMT+0800 (CST)
+注册漏斗
+{
+	"enterHome" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"clickSignup" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"enterSignup" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"clickSubmitSignup" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"tempSignUp" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"backendSucceed" : {
+		"batch" : 0,
+		"thirdParty" : {
+			"fywk" : 0,
+			"twsmcce" : 0,
+			"qqPlatform" : 0
+		},
+		"signup" : 0,
+		"other" : 0
+	},
+	"tempSignUpPost" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"tempSignUpGetMe" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"autoInLearnPage" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"clickInLearnPage" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"registerTeacher" : {
+		"uv" : 0,
+		"pv" : 0
+	}
+}
+
+QQ登陆漏斗
+{
+	"enterHome" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"clickSignup" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"enterSignup" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"clickSubmitSignup" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"tempSignUp" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"backendSucceed" : {
+		"batch" : 0,
+		"thirdParty" : {
+			"fywk" : 0,
+			"twsmcce" : 0,
+			"qqPlatform" : 0
+		},
+		"signup" : 0,
+		"other" : 0
+	},
+	"tempSignUpPost" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"tempSignUpGetMe" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"autoInLearnPage" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"clickInLearnPage" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"registerTeacher" : {
+		"uv" : 0,
+		"pv" : 0
+	},
+	"qqLoginSuccess" : 0
+}
+ 
